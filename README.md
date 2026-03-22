@@ -16,20 +16,7 @@ Spotify Wrapped for your GitHub — see your year in code.
 - html2canvas (share image generation)
 - GitHub Public REST API (no token required)
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-# Open http://localhost:3000
-```
-
-## Deploy to Vercel (2 minutes)
-
-```bash
-npm install -g vercel
-vercel deploy
-```
+Find the link at: https://github-wrapped-pi.vercel.app/
 
 Or push to GitHub and connect at vercel.com — it auto-detects Next.js.
 
